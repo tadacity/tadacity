@@ -124,4 +124,4 @@ Tadacity is released under the license specified in this repository.
 ---
 
 *Tadacity*  
-*Capture the ~~data~~ tada.*
+*Capture the web. Get the ~~data~~ ta-da.*
